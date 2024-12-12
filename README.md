@@ -10,7 +10,7 @@
     ,
     <a href="https://scholar.google.com/citations?user=cnVvh7AAAAAJ"><strong>Shan Zhang</strong></a>
     ,
-    <a href="https://users.cecs.anu.edu.au/~koniusz/"><strong>Piotr Koniusz</strong></a>
+    <a href="https://www.koniusz.com/"><strong>Piotr Koniusz</strong></a>
     </p>
   </p>
 
