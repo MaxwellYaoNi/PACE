@@ -25,9 +25,9 @@
     <a href='https://maxwellyaoni.github.io/home/documents/PACE_Poster.pdf'>
       <img src='https://img.shields.io/badge/Poster-2AA26C?style=flat&logo=Packt&logoColor=white' alt='Slides'>
     </a>
-<!--     <a href='https://www.youtube.com/watch?v=_f7X5_zT_lA'>
+    <a href='https://www.youtube.com/watch?v=69ZgFJJGqRw'>
       <img src='https://img.shields.io/badge/Video-Youtube-FA1D1D?style=flat&logo=youtube&logoColor=white' alt='Video Youtube'>
-    </a> -->
+    </a>
   </p>
   <p align="center">
     <img src="https://maxwellyaoni.github.io/home/documents/pace_pipeline.jpg" alt="Overview" width="100%">
