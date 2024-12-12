@@ -6,9 +6,9 @@
 
   <p align="center">
     <p align="center">
-    <a href="https://scholar.google.com/citations?user=oGD-WMQAAAAJ&hl=en"><strong>Yao Ni</strong></a>
+    <a href="https://scholar.google.com/citations?user=oGD-WMQAAAAJ"><strong>Yao Ni</strong></a>
     ,
-    <a href="https://scholar.google.com/citations?user=oGD-WMQAAAAJ&hl=en"><strong>Shan Zhang</strong></a>
+    <a href="https://scholar.google.com/citations?user=cnVvh7AAAAAJ"><strong>Shan Zhang</strong></a>
     ,
     <a href="https://users.cecs.anu.edu.au/~koniusz/"><strong>Piotr Koniusz</strong></a>
     </p>
