@@ -30,7 +30,7 @@
     </a> -->
   </p>
   <p align="center">
-<!--     <img src="assets/chain_pipeline.jpg" alt="Overview" width="100%"> -->
+    <img src="https://maxwellyaoni.github.io/home/documents/pace_pipeline.jpg" alt="Overview" width="100%">
     </p>
 </p>
 <br/>
