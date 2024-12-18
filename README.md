@@ -46,7 +46,7 @@
 
 ## Citation
 
-If you use the theories or code for your research, please cite with the below:
+If you find the theories or code help your work, please kindly cite our paper:
 ```
 @inproceedings{
 ni2024pace,
