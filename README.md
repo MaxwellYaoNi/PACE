@@ -25,7 +25,7 @@
     <a href='https://maxwellyaoni.github.io/home/documents/PACE_Poster.pdf'>
       <img src='https://img.shields.io/badge/Poster-2AA26C?style=flat&logo=Packt&logoColor=white' alt='Slides'>
     </a>
-    <a href='https://www.youtube.com/watch?v=69ZgFJJGqRw'>
+    <a href='https://www.youtube.com/watch?v=CkThbYQ9SxY'>
       <img src='https://img.shields.io/badge/Video-Youtube-FA1D1D?style=flat&logo=youtube&logoColor=white' alt='Video Youtube'>
     </a>
   </p>
