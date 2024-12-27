@@ -1,1 +1,1 @@
-# Code for PACE for Vision Tasks, including VTAB-1K and Fewshot is expected to relase before Jan 01, 2025
+# Code for PACE for Vision Tasks, including VTAB-1K and Fewshot learning, is expected to relase before Jan 01, 2025
