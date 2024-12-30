@@ -7,7 +7,7 @@ Key components include:
 
 -`pace/residual_adapters.py`: Code for Residual Adapters.
 
--`train.py (Line 137)`: Example of how to inject PACE into the training process.
+-[`train.py (Line 137)`](https://github.com/MaxwellYaoNi/PACE/blob/56a68b799cc0804fb6e8acfbda07014c45370704/Vision/train.py#L137): Example of how to inject PACE into the training process.
 
 ---
 
