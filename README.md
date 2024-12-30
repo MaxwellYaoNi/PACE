@@ -13,7 +13,6 @@
     <a href="https://www.koniusz.com/"><strong>Piotr Koniusz</strong></a>
     </p>
   </p>
-
   
   <p align="center">
     <a href='https://arxiv.org/abs/2409.17137'>
@@ -35,7 +34,11 @@
 </p>
 <br/>
 
-##
+### Below are the general knowledges discovered from our work:
+#### 💡 Lower gradient norms improve model generalization.
+#### 💡 Consistency regularization across different perturbations reduces gradient norms, improving generalization.
+#### 💡 Consistency regularization on adapter features aligns fine-tuned models with pre-trained ones, preserving knowledge.
+
  
 
 ## Code for [PACE-Vision](https://github.com/MaxwellYaoNi/PACE/tree/main/Vision), which includes experiments for vision adaptation on VTAB-1K and few-shot learning.
