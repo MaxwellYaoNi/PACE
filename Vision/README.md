@@ -47,7 +47,7 @@ python3 train.py \
 #### LoRAmul_VPTadd with PACE:
 ```
 python3 train.py \
---task fs --dataset oxford-flowers102 --lr 5e-03 --wd 1e-4 --rank 18 --epoch 100 --hdf5
+--task fs --dataset oxford-flowers102 --lr 5e-03 --wd 1e-4 --rank 18 --epoch 100 --hdf5 \
 --pace_type pace --lbd 1 --sigma 1.5 
 ```
 
