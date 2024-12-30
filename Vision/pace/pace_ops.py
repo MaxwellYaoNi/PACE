@@ -37,7 +37,7 @@ class MultiplicativeNoiseAdapter(nn.Module):
             return self.adapter.forward(x)
 
     def extra_repr(self) -> str:
-        return f'To be deside'
+        return f'sigma={self.sigma}, shape={self.shape}'
 
 
 class PACE_MSELoss(nn.Module):
