@@ -44,6 +44,12 @@ python3 train.py \
 python3 train.py \
 --task fs --dataset oxford-flowers102 --lr 5e-03 --wd 1e-4 --rank 18 --epoch 100 --hdf5
 ```
+#### LoRAmul_VPTadd with PACE:
+```
+python3 train.py \
+--task fs --dataset oxford-flowers102 --lr 5e-03 --wd 1e-4 --rank 18 --epoch 100 --hdf5
+--pace_type pace --lbd 1 --sigma 1.5 
+```
 
 ## 5. Notes and Tips
 ### Argument Details
