@@ -34,11 +34,13 @@
 </p>
 <br/>
 
+---
+
 ### Below are the general knowledges discovered from our work:
 #### 💡 Lower gradient norms improve model generalization.
 #### 💡 Consistency regularization across different perturbations reduces gradient norms, improving generalization.
 #### 💡 Consistency regularization on adapter features aligns fine-tuned models with pre-trained ones, preserving knowledge.
-
+---
  
 
 ## Code for [PACE-Vision](https://github.com/MaxwellYaoNi/PACE/tree/main/Vision) is Released.
