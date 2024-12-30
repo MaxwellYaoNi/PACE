@@ -1,6 +1,5 @@
 # Official PyTorch Implementation of PACE for VTAB-1K and Few-Shot Learning
 
----
 ## Overview
 Key components include:
 
