@@ -41,7 +41,7 @@
 
  
 
-## Code for [PACE-Vision](https://github.com/MaxwellYaoNi/PACE/tree/main/Vision), which includes experiments for vision adaptation on VTAB-1K and few-shot learning.
+## Code for [PACE-Vision](https://github.com/MaxwellYaoNi/PACE/tree/main/Vision) is Released.
 
 ## Code for PACE-NLP is being reorganized.
 
