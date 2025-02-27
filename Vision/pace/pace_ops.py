@@ -47,7 +47,7 @@ class PACE_MSELoss(nn.Module):
 _mse_criterion = PACE_MSELoss()
 
 def compute_loss_pace(model, x, y, criterion, lbd_pace=1, pace_criterion=_mse_criterion, **kwargs):
-    # duplicate the input, e.g [x1, x2, x3] will be [x1, x1, x2, x2, x3, x3]
+    # duplicate the input, e.g [x1, x2, x3] will be [x1, x2, x3, x1, x2, x3]
     set_duplicate(model, 2)
     x_duplicate = torch.cat([x, x])
     logits = model(x_duplicate)
