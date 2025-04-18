@@ -38,7 +38,8 @@ if __name__ == '__main__':
     group.add_argument('--dataset',         type=str,   default='caltech101', help='dataset name')
     group.add_argument('--fs_shot',         type=int,   default=1, help='number of shot')
     group.add_argument('--fs_seed',         type=int,   default=0)
-    group.add_argument('--hdf5',            action='store_true',  default=False)
+    group.add_argument('--hdf5',            action='store_true',    default=False)
+    group.add_argument('--vtab_evaluate',   action='store_true',    default=False)
 
     group = parser.add_argument_group('model arguments and training arguments')
     group.add_argument('--model',           type=str,   default='ViT-B', choices=['ViT-B', 'Swin-B'])
@@ -96,7 +97,7 @@ if __name__ == '__main__':
 
     # load dataset
     if args.task == 'vtab':
-        train_dl, val_dl = utils.get_vtab_data(args.dataset, False, batch_size=args.bs,
+        train_dl, val_dl = utils.get_vtab_data(args.dataset, evaluate=args.vtab_evaluate, batch_size=args.bs,
                                                num_workers=args.num_workers, is_hdf5=args.hdf5)
         test_dl = None
         class_dim = utils.get_vtab_classes_num(args.dataset)
