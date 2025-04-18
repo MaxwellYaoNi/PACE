@@ -7,7 +7,7 @@ Key components include:
 
 -`pace/residual_adapters.py`: Code for Residual Adapters.
 
--[`train.py (Line 137)`](https://github.com/MaxwellYaoNi/PACE/blob/56a68b799cc0804fb6e8acfbda07014c45370704/Vision/train.py#L137): Example of how to inject PACE into the training process.
+-[`train.py (Line 138)`](https://github.com/MaxwellYaoNi/PACE/blob/56a68b799cc0804fb6e8acfbda07014c45370704/Vision/train.py#L138): Example of how to inject PACE into the training process.
 
 ---
 
@@ -36,6 +36,13 @@ python3 train.py \
 python3 train.py \
 --dataset cifar --lr 1e-03 --wd 1e-4 --rank 10 --epoch 300 --hdf5 \
 --pace_type pace --lbd 1 --sigma 1.2 
+```
+#### Evaluate Performance
+For VTAB tasks, use the `train800` split for training and `val200` for evaluation during hyperparameter search. After selecting the best hyperparameters, add the `--vtab_evaluate` flag to train on `train800+val200` and evaluate on the 'test' split:
+```
+python3 train.py \
+--dataset cifar --lr 1e-03 --wd 1e-4 --rank 10 --epoch 300 --hdf5 \
+--pace_type pace --lbd 1 --sigma 1.2 --vtab_evaluate
 ```
 
 ### 4.2 Few-Shot Learning (Oxford-Flowers102)
