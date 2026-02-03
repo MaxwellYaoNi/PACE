@@ -43,7 +43,7 @@
 ---
  
 
-## Code for [PACE-Vision](https://github.com/MaxwellYaoNi/PACE/tree/main/Vision) is Released.
+## Code for [PACE on VTAB-1K and Few-Shot Learning](https://github.com/MaxwellYaoNi/PACE/tree/main/Vision) is Released. 
 
 
 ## Citation
