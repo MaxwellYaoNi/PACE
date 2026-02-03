@@ -45,9 +45,6 @@
 
 ## Code for [PACE-Vision](https://github.com/MaxwellYaoNi/PACE/tree/main/Vision) is Released.
 
-## Code for PACE-NLP is being reorganized.
-
-## We will add PACE into huggingface soon.
 
 ## Citation
 
