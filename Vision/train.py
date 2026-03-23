@@ -73,7 +73,7 @@ if __name__ == '__main__':
         name_configs += [args.pace_type,
                          f'Lbd{args.lbd:g}'         if args.lbd else None,
                          f'S{args.sigma:g}'         if args.sigma else None,
-                         f'Lz{args.pace_every}'     if args.pace_type == 'lazy' and args.lazy_interval != 1 else None]
+                         f'Lz{args.lazy_interval}'  if args.pace_type == 'lazy' and args.lazy_interval != 1 else None]
 
     name_configs += [    args.adapter,
                          f'R{args.rank:d}',
