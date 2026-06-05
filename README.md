@@ -1,7 +1,7 @@
 <br />
 <p align="center">
     <h1 align="center">
-        PACE: marrying generalization in PArameter-efficient fine-tuning with Consistency rEgularization (NeurIPS 2024 Spotlight)
+        PACE: Marrying generalization in PArameter-efficient fine-tuning with Consistency rEgularization (NeurIPS 2024 Spotlight)
     </h1>
 
   <p align="center">
